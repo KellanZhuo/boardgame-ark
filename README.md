@@ -1,5 +1,6 @@
 # BoardGame Ark · 桌游方舟智能推荐系统
 
+> **在线体验（Live Demo）**：👉 [https://boardgame-ark.onrender.com](https://boardgame-ark.onrender.com) *（Render 免费实例，首次冷启动约需 20–40 秒唤醒）*  
 > **NUS School of Computing Summer Workshop (SWS) · 团队第 2 名 / 15 组**  
 > 基于 **29,506 款** BoardGameGeek (BGG) 桌游数据与混合推荐算法构建的多步骤引导式个性化推荐 Web 应用。
 
